@@ -33,12 +33,6 @@ deck = crearDeck(tipos, especiales);
 
 // pedirCarta();
 
-
-
-
-
-
-
 // Eventos
 btnPedir.addEventListener('click', () => {
 
